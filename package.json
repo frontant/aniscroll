@@ -1,6 +1,6 @@
 {
   "name": "@frontant/aniscroll",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "animated scrolling, written in ES6",
   "main": "src/index.js",
   "scripts": {
@@ -10,7 +10,10 @@
     "scroll",
     "animation"
   ],
-  "author": "anton.horn@frontant.de",
+  "author": {
+    "name": "Anton Horn",
+    "url": "https://frontant.de"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
